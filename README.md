@@ -1,2 +1,2 @@
 # Data-Visualization-with-Python
-Data Visualization of COVID-19 Cases with Pandas
+In this project, we will explore the visualization of global spread of COVID-19 in each country. We will utilize Choropleth map to illustrate the worldwode dissemination of COVID-19 since the start of the pandemic. This visualization will offer a comprehensive of how the virus has traversed the globe, highligthing the regions that were brutly affected early on and tracking its subsequent spread. We will specifically focus on the spread of COVID-19 in Italy and Germany, and trends before and after lockdown. In addition, we will also explore the impact of the national lockdown on the death rate attributed to COVID-19.  
